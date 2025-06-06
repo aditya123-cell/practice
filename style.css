@@ -23,7 +23,7 @@ html, body{
   line-height: 100px;
 }
 .box:hover{
-  background: lightcoral;
+  background: rgb(143, 0, 0);
   cursor: pointer;
   transition: background 0.3s ease;
   transform: scale(1.1);

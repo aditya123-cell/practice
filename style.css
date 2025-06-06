@@ -22,3 +22,9 @@ html, body{
   text-align: center;
   line-height: 100px;
 }
+.box:hover{
+  background: lightcoral;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  transform: scale(1.1);
+}
